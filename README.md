@@ -31,8 +31,6 @@
 <!-- ![](https://api.githubtrends.io/user/svg/hrutik7679/repos?time_range=one_year&group=other&theme=dark) -->
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hrutik7679&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
